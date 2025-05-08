@@ -3,7 +3,11 @@
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요😄 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 새로운 기술을 배우는 것을 좋아합니다. </li>소통을 중요하게 여기며, 명확한 문서화를 통한 체계적인 개발을 지향하고 있습니다. </div> 
+    <div style="font-weight: 300; font-size: 15px; text-align: left; color: #4f4f4f;">
+        <blockquote style="font-weight: 500; font-size: 15px; color: #4f4f4f; border-left: 4px solid #d0d7de; padding-left: 16px; margin: 16px 0; background-color: #f9f9f9;">
+  새로운 기술을 배우는 것을 좋아합니다.<br/>
+  소통을 중요하게 여기며, 명확한 문서화를 통한 체계적인 개발을 지향하고 있습니다.
+</blockquote>
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
@@ -37,17 +41,12 @@
     <li style="margin-bottom: 10px;">
       <strong style="color: #444; font-size: 16px;">👀 At a Glance</strong><br/>
       <span style="font-size: 14px; color: #666;">뉴스 영상 요약 및 카드 뉴스 자동 생성 서비스</span><br/>
-      🔗 <a href="https://github.com/minji1160/at-a-glance" style="color: #007acc;">GitHub 바로가기</a>
-    </li>
+      🔗 <a href="https://github.com/inha-at-a-glance/ataglance-back" style="color: #007acc;">GitHub 바로가기</a>
+    </li><br/>
     <li style="margin-bottom: 10px;">
-      <strong style="color: #444; font-size: 16px;">🦷 Dental AI Guide</strong><br/>
-      <span style="font-size: 14px; color: #666;">AI 기반의 임플란트 가이드 시스템</span><br/>
-      🔗 <a href="https://github.com/minji1160/dental-ai-guide" style="color: #007acc;">GitHub 바로가기</a>
-    </li>
-    <li style="margin-bottom: 10px;">
-      <strong style="color: #444; font-size: 16px;">🗓️ Smart Personal Scheduler</strong><br/>
-      <span style="font-size: 14px; color: #666;">개인 일정과 면접 준비를 효율적으로 관리하는 스케줄러 웹 앱</span><br/>
-      🔗 <a href="https://github.com/minji1160/smart-scheduler" style="color: #007acc;">GitHub 바로가기</a>
+      <strong style="color: #444; font-size: 16px;">✅ 빈 강의실 관리 서비스</strong><br/>
+      <span style="font-size: 14px; color: #666;">인하대학교 강의실의 효율적 활용을 위한 예약 시스템</span><br/>
+      🔗 <a href="https://github.com/GDGoC-PJ-Sexyguys/back-repo" style="color: #007acc;">GitHub 바로가기</a>
     </li>
   </ul>
 </div>
